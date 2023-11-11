@@ -14,7 +14,7 @@ To use the AI chatbot, you will need to have Node.js and npm installed on your m
 
 ``` Bash
 git clone https://github.com/Ayoubx01/AI-chatbot-chatgpt.git
-cd aichatbot-chatgpt
+cd AI-chatbot-chatgpt
 npm install
 ```
 
@@ -47,3 +47,8 @@ If you find any issues with the AI chatbot or have any suggestions for improveme
 ### Author
 
 [@Ayoubx01](https://github.com/Ayoubx01)
+
+## Home Page:
+
+
+![prom](https://github.com/Ayoubx01/AI-chatbot-chatgpt/assets/116462151/6d5a6bf3-e9bf-4627-a22a-6e8c2a4180c9)
